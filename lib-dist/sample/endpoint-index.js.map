@@ -1,0 +1,1 @@
+{"version":3,"sources":["endpoint-index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,QAAQ,CAAC;AAC/B,OAAO,EAAC,aAAa,EAAC,MAAM,eAAe,CAAC;AAC5C,MAAM,CAAC,IAAM,aAAa,GACxB;IACE;QACE,MAAM,EAAE,oBAAoB;QAC5B,QAAQ,EAAE,aAAa,CAAC,GAAG;QAC3B,OAAO,EAAE,gBAAgB;QACzB,OAAO,EAAE,KAAK;KACf;CACF,CAAC","file":"endpoint-index.js","sourceRoot":""}
